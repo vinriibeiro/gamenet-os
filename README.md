@@ -3,6 +3,7 @@
 Central de gestão e monitoramento para a Gamenet (provedor de internet). Fica por cima do SGP, do Chatmix e da rede, sem substituí-los.
 
 - `index.html`: apresentação da proposta para a diretoria.
+- `landing/`: landing page comercial (planos, cobertura por CEP com envio ao WhatsApp).
 - `prototipo/`: protótipo navegável (12 áreas, 4 perfis de acesso, cobrança com histórico e auditoria salvos no navegador, PWA).
 
 **Todos os números do protótipo são fictícios** e servem só para demonstração.
